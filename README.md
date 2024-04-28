@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @07ritwik
 - 👀 I’m interested in programing , web developement
-- 🌱 I’m currently learning java highlevel , python intermediate
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java full Stack development
+- 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me ritwikmurugesh07@gmail.com
 
 <!---
